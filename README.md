@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Setyo Gagah Widiarno</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyo-ai" alt="tyo-ai" /></a> </p>
-
 - 🔭 I’m currently working on [monografi-ngeposari](monografi-ngeposariafi-ngeposari)
 
 - 🌱 I’m currently learning **Advanced Next.js, Three.js, and WebGL animations.**
