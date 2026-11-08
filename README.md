@@ -22,7 +22,7 @@
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://instagram.com/setyo_gw" target="blank">
-    <img align="center" src="https://shields.io" alt="setyo_gw" />
+    <img src="https://shields.io" alt="setyo_gw" />
   </a>
 </p>
 
@@ -59,4 +59,4 @@
 </p>
 
 ---
-<p align="center">Developed in 🇮🇩 </p>
+<p align="center">Developed with ❤️ in 🇮🇩</p>
